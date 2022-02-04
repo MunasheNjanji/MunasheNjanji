@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MunasheNjanji
-- 👀 I’m interested in programming in many languages ,developing legacy software,networking and Web design and development.  
+- 👀 I’m interested in programming in many languages ,developing legacy software,networking and Web design and development. I'm also into Data Science  
 - 🌱 I’m currently learning all the above mentioned 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me munashenjanji45@gmail.com
