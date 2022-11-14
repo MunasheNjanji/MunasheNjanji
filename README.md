@@ -34,18 +34,21 @@ Am this guy ![https://photos.app.goo.gl/Q4ZHh8vNKu86uUJ76](https://photos.app.go
      
 | Skill | Description |
 | ----------- | ----------- |
-| Django | 89% |
-| React | 56% | 
-| Bootstrap | 86% |
+| Django | 93% |
+| React | 96% | 
+| Bootstrap | 96% |
+| GraphQL | 86% |
+| MongoDB | 986% |
+| Postgresql | 56% |
 | jQuery | 86% |
-| Vue.js | 50% |
+| Vue.js | 80% |
 | Docker | 46% |
 | GraphQL | 86% |
 | DRF | 96% |
 | Wagtail CMS | 56% |
 | Kind | 36% |
 | Kubernetes | 36% |
-| Nginx | 46% |
+| Nginx | 66% |
 | HTML5 & CSS3 | 86% |
 | JavaScript | 76% |
 
