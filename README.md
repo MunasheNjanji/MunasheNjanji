@@ -8,7 +8,7 @@
   "lastName": "Njanji",
   "email": "munashenjanji45@gmail.com",
   "date_of_birth": "27-02-2000",
-  "":
+  "Phone": "+263 78 396 8637"
 }
 ``` 
 
