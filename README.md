@@ -1,37 +1,27 @@
-# About me
+## Hey there 👋, I'm [Munashe!](https://github.com/MunasheNjanji/)
 
-- 👋 Hi, 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/munashe_njanji)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/munashe-njanji-9ab254174/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/MunasheNjanji/)
 
-```
-{
-  "firstName": "Munashe",
-  "lastName": "Njanji",
-  "email": "munashenjanji45@gmail.com",
-  "date_of_birth": "27-02-2000",
-  "Phone": "+263 78 396 8637"
-}
-``` 
+### Glad to see you here! &nbsp;
 
-Am this guy ![https://photos.app.goo.gl/Q4ZHh8vNKu86uUJ76](https://photos.app.goo.gl/Q4ZHh8vNKu86uUJ76)
+Passionate computer science student at NUST, dedicated to exploring the fascinating world of technology. I thrive on solving complex problems and enjoy diving into the realms of algorithms, data structures, and software development. Constantly seeking new challenges, I'm eager to collaborate, learn, and contribute to open-source projects. With a strong foundation in programming languages and a drive for innovation, I'm excited to shape the future through the power of code.
 
-    > I consider myself a fullstack developer. Oh well maybe I'm one:
-
-      I am learning the following:
-        - Django
-        - React
-        - Bootstrap 
-        - jQuery
-        - Vue.js
-        - Docker
-        - GrapgQL
-        - RestAPIs(drf)
-        - Wagtail
-        - Kind ( A tool for running local Kubernetes clusters using Docker container “nodes”.)
-        - Oh let's put Kubernetes
-        - Nginx
-        - I depend mostly on Django ORM nowadays but my preferred database is PostgreSQL()
-      I have developed a lot of projects while learning along the tutorials and guides I follow    
-     
+### WHat I use for personal Personal Stuff:
+   
+    - 🛠 &nbsp; I’m currently working with JS, Python, etc.
+    - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+    - 💬 &nbsp; Ask me anything [here](https://github.com/MunasheNjanji/MunasheNjanji/issues)! I am happy to help.
+    - 👾 &nbsp; Fun fact: Django was initially developed to manage news website operations, specifically the Lawrence Journal-World newspaper in Kansas.
+    - 📫 &nbsp; Reach me out: munashenjanji45@gmail.com.
+### My Absolute Favorites:
+    
+    - 💻 &nbsp; I love exploring new technologies and building cool stuff.
+    - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+    - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+    - :coffee: &nbsp; Favorite Beverage: Coffee
+      
 | Skill | Description |
 | ----------- | ----------- |
 | Django | 93% |
