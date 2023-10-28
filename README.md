@@ -20,7 +20,7 @@ Passionate computer science student at NUST, dedicated to exploring the fascinat
     - 💻 &nbsp; I love exploring new technologies and building cool stuff.
     - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
     - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-    - :coffee: &nbsp; Favorite Beverage: Coffee
+    - ☕ &nbsp; Favorite Beverage: Coffee
       
 | Skill | Description |
 | ----------- | ----------- |
