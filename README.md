@@ -20,7 +20,14 @@ Passionate computer science student at NUST, dedicated to exploring the fascinat
     - 💻 &nbsp; I love exploring new technologies and building cool stuff.
     - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
     - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-    - ☕ &nbsp; Favorite Beverage: Coffee
+    - 💻 &nbsp; Favorite Programming Language: Python
+    - 📊 &nbsp; Favorite Data Structure: Binary Search Tree
+    - 🔍 &nbsp; Favorite Algorithm: Dijkstra's Algorithm
+    - 🎮 &nbsp; Favorite Tech Tool: Visual Studio Code
+    - 🌐 &nbsp; Favorite Web Framework: Django
+    - 🤖 &nbsp; Favorite Artificial Intelligence Concept: Bayesian Neural Networks
+    - 📱 &nbsp; Favorite Mobile OS: Android
+    - 🚀 &nbsp; Favorite Technology Trend: Artificial Intelligence Transformer Architecture
       
 | Skill | Description |
 | ----------- | ----------- |
