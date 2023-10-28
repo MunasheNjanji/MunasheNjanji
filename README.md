@@ -64,7 +64,7 @@ Passionate computer science student at NUST, dedicated to exploring the fascinat
 
 - 🌱 I’m currently learning all the above mentioned 
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me munashenjanji45@gmail.com
+- 📫 Reach me  [here](munashenjanji45@gmail.com)!
 
 <!---
 MunasheNjanji/MunasheNjanji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
